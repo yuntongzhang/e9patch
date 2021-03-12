@@ -16,7 +16,8 @@ else
 fi
 
 #VERSION=e3f106739a6ae78d47772dff31062d644ea21078
-VERSION=baa1f94cfdacd921744769bf7d93f00892ef53fa
+#VERSION=baa1f94cfdacd921744769bf7d93f00892ef53fa
+VERSION=4.0.2
 
 while [ $# -ge 1 ]
 do
